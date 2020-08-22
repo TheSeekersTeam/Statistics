@@ -1,7 +1,7 @@
 # StatisticsBySection
 
 ## Download
-[Click Here to navigate to the latest release.](https://github.com/laipuran/StatisticsBySection/releases/tag/latest)
+[Click Here to navigate to the latest release.](https://github.com/laipuran/StatisticsBySection/releases/tag/v1.0)
 
 ## Built with Visual Studio
   - VS Version: Visual Studio 2019
